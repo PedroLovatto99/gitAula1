@@ -45,13 +45,6 @@ assim acabamos de enviar o nosso código para o github
 
 ---
 
-## Trazendo repositórios do github
-
-bem, para trazermos o repositório, é bem simples, basta utilizarmos o seguinte comando
-```
-git clone linkDoRepositório
-```
-
 ---
 
 ## Branches
